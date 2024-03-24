@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**codewithmonk/codewithmonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior Software Engineer** specializing in **Data Engineering**. Passion drives my quest for discovering insights in vast oceans of data and engineering robust, scalable solutions. 
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Languages:** Python, SQL, Java, Golang, Dart
+- **Technologies:** Spark, Flink, Kafka, Docker, Django, Go-Kit, Flutter, AWS
+- **Tools:** Git, Jenkins, Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Personal Interests
+When not wrangling data, you can find me:
+- 📖 Deep in the pages of a good book
+- 📱 Exploring the latest in mobile app development
+- ♟️ Strategizing over a chessboard
+- 🔭 I’m currently working on a Rosary Mobile App using Flutter
+- 💬 Ask me about Data Intensive applications, cloud native applications
+- I’m currently learning Golang
+- 👯 I’m looking to collaborate on a personal project using Flutter, reach out to know more
+
+## 🌟 Fun Fact
+I believe in the power of retro tech! So much so, I've been known to code listening to the dial-up internet sound for inspiration. *beep boop beep*
+
+

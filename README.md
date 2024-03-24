@@ -8,7 +8,7 @@ I'm a **Senior Software Engineer** specializing in **Data Engineering**. Passion
 
 ## 🛠 Tech Stack
 - **Languages:** Python, SQL, Java, Golang, Dart
-- **Technologies:** Spark, Flink, Kafka, Docker, Django, Go-Kit, Flutter, AWS
+- **Technologies:** Spark, Flink, Kafka, Docker, Django, Go-Kit, Flutter, AWS, Azure
 - **Tools:** Git, Jenkins, Kubernetes
 
 ## 📚 Personal Interests

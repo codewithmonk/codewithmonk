@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1leHFvaWpzdDEzbWVxdzRtMXpmMXF3MXNna2hiMHJxdmo3bTFuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MdA16VIoXKKxNE8Stk/giphy.gif" width="100"/>
+  <p><b> Hello, World! 👋</b></p>
 </div>
-# Hello, World! 👋
+
 
 I'm a **Senior Software Engineer** specializing in **Data Engineering**. Passion drives my quest for discovering insights in vast oceans of data and engineering robust, scalable solutions. 
 

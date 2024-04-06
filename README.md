@@ -16,9 +16,9 @@ When not wrangling data, you can find me:
 - 📖 Deep in the pages of a good book
 - 📱 Exploring the latest in mobile app development
 - ♟️ Strategizing over a chessboard
-- 🔭 I’m currently working on a Rosary Mobile App using Flutter
+- 🔭 I’m currently working on a Personal Project using Dart/Flutter, Golang/Jin
 - 💬 Ask me about Data Intensive applications, cloud native applications
-- I’m currently learning Golang
+- I’m still exploring Golang and learning each day
 - 👯 I’m looking to collaborate on a personal project using Flutter, reach out to know more
 
 ## 🌟 Fun Fact

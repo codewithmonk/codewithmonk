@@ -22,6 +22,6 @@ When not wrangling data, you can find me:
 - 👯 I’m looking to collaborate on a personal project using Flutter, reach out to know more
 
 ## 🌟 Fun Fact
-I believe in the power of retro tech! So much so, I've been known to code listening to the dial-up internet sound for inspiration. *beep boop beep*
+I'm a night owl who finds the quiet hours of the night to be the best time for creativity. Whether it's brainstorming new ideas or solving complex problems, I often find my best work happens under the stars!
 
 

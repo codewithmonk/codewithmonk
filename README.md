@@ -1,4 +1,4 @@
-<div id="header" align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmlta295ajVtMWRzanFjdzYwbmpkendkeWduZzVvOTlia2M3em53YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WsTqCP23xCEr2j1uru/giphy.gif" width="100"/> <p><b>Hello, World! 👋</b></p> </div>
+<div id="header" align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmlta295ajVtMWRzanFjdzYwbmpkendkeWduZzVvOTlia2M3em53YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WsTqCP23xCEr2j1uru/giphy.gif" width="100"/> <p><b>Hi friend! 👋</b></p> </div>
 
 I’m a Software Engineer focused on Data Engineering and Backend Development. I enjoy turning raw data into meaningful insights and building reliable, scalable systems. My work centers on designing solutions that address current needs while keeping future growth in mind.
 
